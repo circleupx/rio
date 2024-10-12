@@ -4,7 +4,7 @@ A low level framework to work with National Council for Prescription Drug Progra
 
 ## Supported Transactions
 
-As of October 2024 Claims Framework supports the following transaction.s
+As of October 2024 Claims Framework supports the following transactions
 
 - Claim Billing (B1)
 - Claim Reversal (B2)
