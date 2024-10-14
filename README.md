@@ -1,10 +1,10 @@
-# Claims Framework
+# Rio
 
-A low level framework to work with National Council for Prescription Drug Programs (NCPDP) standards like D.0 and F6.
+Rio is a low level framework to work with National Council for Prescription Drug Programs (NCPDP) standards like D.0 and F6.
 
 ## Supported Transactions
 
-As of October 2024 Claims Framework supports the following transactions
+As of October 2024 Rio supports the following transaction types.
 
 - Claim Billing (B1)
 - Claim Reversal (B2)
