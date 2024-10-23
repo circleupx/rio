@@ -1,9 +1,9 @@
-namespace Rio.F6
+namespace Rio
 {
     /// <summary>
     /// Compromised of data segments.
     /// </summary>
-    public class Tansaction
+    public class Transaction
     {
         
     }
